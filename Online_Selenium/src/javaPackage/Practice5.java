@@ -24,7 +24,7 @@ public class Practice5 {
 				  }
 				  count++;
 			  }
-			  System.out.println(ch+""+count);
+			  System.out.print(ch+""+count);
 		  }
 	}
 
