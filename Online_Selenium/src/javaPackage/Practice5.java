@@ -22,7 +22,6 @@ public class Practice5 {
 				  if(inp[j]!=ch) {
 					  continue;
 				  }
-				  
 				  count++;
 			  }
 			  System.out.print(ch+""+count);
